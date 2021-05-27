@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Satyajit-Gorai
 - 👀 I’m interested in Software Development and Data Science and Computer Vision  
-- 🌱 I’m currently learning Data Structure and Algorithms
+- 🌱 I’m currently learning Data Structure and Algorithms and Dynamic Programming
 - 💞️ I’m looking to collaborate on Any project
 - 📫 How to reach me reachtosatyajit@gmail.com || https://www.linkedin.com/in/satyajit-gorai-a41a7a1a0
 
